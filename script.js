@@ -67,8 +67,8 @@ animateVisibleItems();
 
 // ---------- Dynamic GitHub Background Gallery with Fallback ----------
 const bgGallery = document.getElementById('bg-gallery');
-const githubUser = 'YOUR_USERNAME'; // Replace
-const githubRepo = 'YOUR_REPO';     // Replace
+const githubUser = 'Bismay-exe'; // Replace
+const githubRepo = '✨ My Heavenly Archive ✨';     // Replace
 const githubFolder = 'backgrounds';
 const fallbackBg = 'bg.jpg';
 
@@ -122,3 +122,4 @@ closeModal.addEventListener('click', () => { creditsModal.style.display = 'none'
 window.addEventListener('click', (e) => {
   if(e.target === creditsModal){ creditsModal.style.display = 'none'; }
 });
+
