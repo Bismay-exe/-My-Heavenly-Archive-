@@ -1,8 +1,16 @@
 # ✨ My Heavenly Archive ✨
 
-![Downloads](https://img.shields.io/badge/Downloads-∞-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-blue)
-![License](https://img.shields.io/badge/License-Free-orange)
+<div align="left">
+  <a href="https://bismay-exe.github.io/-My-Heavenly-Archive-/">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-blue">
+  </a>
+  <a href="https://github.com/Bismay-exe">
+    <img alt="Github" src="https://img.shields.io/github/v/release/SukiSU-Ultra/SukiSU-Ultra?label=Github&logo=github">
+  </a>
+  <a href="http://t.me/bismay_exe">
+    <img alt="Telegram" src="https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram">
+  </a>
+</div>
 
 Welcome to **✨ My Heavenly Archive ✨**, your **ultimate curated cloud of digital content**!  
 Access and download **wallpapers, homescreen setups, movies, memes, hack files**, and more—all neatly organized and instantly accessible online.
