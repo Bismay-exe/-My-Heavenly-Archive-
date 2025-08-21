@@ -1,6 +1,16 @@
 <?php
-$dir = "media/photos"; // folder containing your images
-$images = glob($dir . "/*.{jpg,jpeg,png,gif,webp}", GLOB_BRACE);
+$photoDir = "media/photos";
+$videoDir = "media/videos";
+$fileDir = "media/files";
+
+// Get all images
+$images = glob($photoDir . "/*.{jpg,jpeg,png,gif,webp}", GLOB_BRACE);
+
+// Get all videos
+$videos = glob($videoDir . "/*.{mp4,webm,ogg}", GLOB_BRACE);
+
+// Get all files (documents, archives, etc.)
+$files = glob($fileDir . "/*.{pdf,doc,docx,xls,xlsx,txt,zip,rar,7z}", GLOB_BRACE);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -31,19 +41,29 @@ $images = glob($dir . "/*.{jpg,jpeg,png,gif,webp}", GLOB_BRACE);
     </div>
   </header>
 
-  <!-- Media Gallery -->
+<!-- Media Gallery -->
   <main id="gallery">
+
     <!-- Photos -->
     <?php foreach($images as $img): ?>
-  <img src="<?php echo $img; ?>" alt="Photo">
-<?php endforeach; ?>
+      <img src="<?php echo $img; ?>" alt="Photo" class="media-item photos">
+    <?php endforeach; ?>
+
     <!-- Videos -->
-    <video class="media-item videos" data-src="media/videos/video1.mp4" controls preload="none" poster="media/videos/video1-poster.jpg"></video>
+    <?php foreach($videos as $vid): ?>
+      <video class="media-item videos" src="<?php echo $vid; ?>" controls preload="none"></video>
+    <?php endforeach; ?>
+
     <!-- Files -->
-    <div class="media-item files file-card">
-      <p>File 1.pdf</p>
-      <a href="media/files/file1.pdf" download>Download</a>
-    </div>
+    <?php foreach($files as $file): 
+      $filename = basename($file);
+    ?>
+      <div class="media-item files file-card">
+        <p><?php echo $filename; ?></p>
+        <a href="<?php echo $file; ?>" download>Download</a>
+      </div>
+    <?php endforeach; ?>
+
   </main>
 
   <!-- Background Image Gallery -->
@@ -78,5 +98,6 @@ $images = glob($dir . "/*.{jpg,jpeg,png,gif,webp}", GLOB_BRACE);
   <script src="script.js"></script>
 </body>
 </html>
+
 
 
