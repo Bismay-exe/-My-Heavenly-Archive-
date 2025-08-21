@@ -30,9 +30,8 @@
   <!-- Media Gallery -->
   <main id="gallery">
     <!-- Photos -->
-    <?php foreach($images as $img): ?>
-  <img src="<?php echo $img; ?>" alt="Photo">
-<?php endforeach; ?>
+    <img class="media-item photos" data-src="media/photos/photo1.jpg" alt="Photo 1" loading="lazy">
+    <img class="media-item photos" data-src="media/photos/photo2.jpg" alt="Photo 2" loading="lazy">
     <!-- Videos -->
     <video class="media-item videos" data-src="media/videos/video1.mp4" controls preload="none" poster="media/videos/video1-poster.jpg"></video>
     <!-- Files -->
@@ -74,3 +73,4 @@
   <script src="script.js"></script>
 </body>
 </
+
