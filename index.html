@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Heavenly Archive</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="glass">
+    <h1>✨ My Heavenly Archive ✨</h1>
+    <div class="controls">
+      <button id="theme-toggle">🌙 Dark Mode</button>
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="photos">Photos</button>
+        <button class="filter-btn" data-filter="videos">Videos</button>
+        <button class="filter-btn" data-filter="files">Files</button>
+      </div>
+      <select id="sort-options">
+        <option value="name-asc">Sort: Name ↑</option>
+        <option value="name-desc">Sort: Name ↓</option>
+        <option value="type">Sort: Type</option>
+      </select>
+    </div>
+  </header>
+
+  <!-- Media Gallery -->
+  <main id="gallery">
+    <!-- Photos -->
+    <img class="media-item photos" data-src="media/photos/photo1.jpg" alt="Photo 1" loading="lazy">
+    <img class="media-item photos" data-src="media/photos/photo2.jpg" alt="Photo 2" loading="lazy">
+    <!-- Videos -->
+    <video class="media-item videos" data-src="media/videos/video1.mp4" controls preload="none" poster="media/videos/video1-poster.jpg"></video>
+    <!-- Files -->
+    <div class="media-item files file-card">
+      <p>File 1.pdf</p>
+      <a href="media/files/file1.pdf" download>Download</a>
+    </div>
+  </main>
+
+  <!-- Background Image Gallery -->
+  <div id="bg-gallery" class="glass"></div>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="lightbox">
+    <span class="close">&times;</span>
+    <img class="lightbox-content" id="lightbox-img">
+    <video class="lightbox-content" id="lightbox-video" controls></video>
+  </div>
+
+  <!-- Floating Credits Button & Modal -->
+  <button id="credits-btn">💬 Contact / Credits</button>
+  <div id="credits-modal" class="modal">
+    <div class="modal-content glass">
+      <span class="close-modal">&times;</span>
+      <h2>Website Owner & Credits</h2>
+      <p>Website by <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a></p>
+      <p>Follow me on 
+        <a href="https://instagram.com/YOUR_USERNAME" target="_blank">Instagram</a>, 
+        <a href="https://t.me/YOUR_USERNAME" target="_blank">Telegram</a>
+      </p>
+      <p>Join my Telegram channel: <a href="https://t.me/YOUR_CHANNEL" target="_blank">Click here</a></p>
+    </div>
+  </div>
+
+  <footer class="glass">
+    <p>© 2025 My Heavenly Archive</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
