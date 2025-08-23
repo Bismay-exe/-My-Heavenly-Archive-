@@ -21,12 +21,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/light_mode.png" alt="Light Mode" width="400px" /><br>
-        <b>Gallery View</b>
+        <img src="assets/screenshots/light_mode.png" alt="" width="400px" /><br>
+        <b>Light Mode</b>
       </td>
       <td align="center">
-        <img src="assets/screenshots/dark_mode.png" alt="Dark Mode" width="400px" /><br>
-        <b>Filters</b>
+        <img src="assets/screenshots/dark_mode.png" alt="" width="400px" /><br>
+        <b>Dark Mode</b>
       </td>
     </tr>
   </table>
@@ -110,7 +110,7 @@ Fully responsive design with fade-in animations
 ## 📊 GitHub Stats (Project)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bismay-exe&repo=Heavenly-Archive&theme=transparent&bg_color=30,000000,434343&title_color=FFD700&text_color=FFFFFF&icon_color=36BCF7&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bismay-exe&repo=My-Heavenly-Archive&theme=transparent&bg_color=30,000000,434343&title_color=FFD700&text_color=FFFFFF&icon_color=36BCF7&hide_border=true" />
 </p>
 
 ---
