@@ -1,104 +1,180 @@
-# ✨ My Heavenly Archive ✨
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=✨%20My%20Heavenly%20Archive%20✨&desc=Glassmorphism%20Media%20Gallery%20%7C%20Filter%20%7C%20Sort%20%7C%20Lightbox&fontAlign=50&fontSize=60&descSize=20&descAlignY=53&descAlign=59&fontAlignY=40&fontColor=FFFFFF)
 
-<div align="left">
-  <a href="https://bismay-exe.github.io/-My-Heavenly-Archive-/">
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-blue">
-  </a>
-  <a href="https://github.com/Bismay-exe">
-    <img alt="Github" src="https://img.shields.io/github/v/release/SukiSU-Ultra/SukiSU-Ultra?label=Github&logo=github">
-  </a>
-  <a href="http://t.me/bismay_exe">
-    <img alt="Telegram" src="https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=✨+Heavenly+Glass+UI;Filter+Photos+%7C+Videos+%7C+Files;Dynamic+Background+Gallery;Fullscreen+Lightbox+Experience" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/light_mode.png" alt="Light Mode" width="400px" /><br>
+        <b>Gallery View</b>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/dark_mode.png" alt="Dark Mode" width="400px" /><br>
+        <b>Filters</b>
+      </td>
+    </tr>
+  </table>
+</p>
+
+A sleek **glassmorphism-based archive** to organize photos, videos, and files.  
+Includes **filters, sorting, lightbox, and dynamic GitHub backgrounds** ✨.
+
+---
+
+## ✅ Features at a Glance
+
+<div align="center">
+
+### 🖼️ Media Gallery  
+Display **Photos, Videos, and Files** in a modern grid  
+
+---
+
+### 🎨 Glassmorphism UI  
+Blurred glass panels with smooth hover animations  
+
+---
+
+### 🌙 Theme Toggle  
+Switch easily between **Light & Dark** modes  
+
+---
+
+### 🔍 Filters  
+Filter content by **All, Photos, Videos, or Files**  
+
+---
+
+### ↕️ Sorting  
+Sort media by **Name ↑, Name ↓, or Type**  
+
+---
+
+### 💡 Lightbox  
+Fullscreen view for photos & videos with one click  
+
+---
+
+### 🖼️ Dynamic Backgrounds  
+Choose background images from **GitHub repo** or fallback image  
+
+---
+
+### 📱 Responsive & Smooth  
+Fully responsive design with fade-in animations  
+
+---
+
+### ⚡ Extras  
+- Floating **Credits modal** with contact links  
+- Persistent **background selection (localStorage)**  
+
 </div>
 
-Welcome to **✨ My Heavenly Archive ✨**, your **ultimate curated cloud of digital content**!  
-Access and download **wallpapers, homescreen setups, movies, memes, hack files**, and more—all neatly organized and instantly accessible online.
+---
+
+## 💡 Tips & Tricks
+
+- 🔍 Use the **filter buttons** to show only Photos, Videos, or Files  
+- ↕️ Sort gallery items with the **dropdown menu**  
+- 🖼️ Click any media to open it in the **lightbox**  
+- 🎨 Change the **background** dynamically from GitHub or local fallback  
+- 🌙 Toggle between **Dark/Light** modes anytime  
 
 ---
 
-## 📖 Table of Contents
+## 🛠️ Tech Stack  
 
-- [🌟 Features](#-features)  
-- [📂 How to Use](#-how-to-use)  
-- [✨ Why Choose Us](#-why-choose-us)  
-- [💡 Join the Community](#-join-the-community)  
-- [📬 Connect & Follow](#-connect--follow)  
-- [🚀 Download Now](#-download-now)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
 
 ---
 
-## 🌟 Features
+## 📊 GitHub Stats (Project)
 
-<details>
-<summary>Click to expand 🌟 Features</summary>
-
-- 🖼️ **Stunning Wallpapers & Homescreens** – Preview and download high-quality images  
-- 🎥 **Movies & Videos** – Stream online or download instantly  
-- 😂 **Trending Memes** – Viral and fun content at your fingertips  
-- 💻 **Exclusive Hack Files & Tools** – Curated digital treasures  
-- ⚡ **Instant Downloads** – Access files in seconds  
-- 🔒 **Safe & Secure** – Hosted reliably with GitHub Pages/CDN  
-- 🌍 **Multi-Device Access** – Accessible anywhere from desktop or mobile  
-
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bismay-exe&repo=Heavenly-Archive&theme=transparent&bg_color=30,000000,434343&title_color=FFD700&text_color=FFFFFF&icon_color=36BCF7&hide_border=true" />
+</p>
 
 ---
 
-## 📂 How to Use
+## ASCII Banner
 
-<details>
-<summary>Click to expand 📂 How to Use</summary>
-
-1. Browse categories or search for content online  
-2. Click a file to preview directly in the browser or download  
-3. Enjoy wallpapers, videos, memes, and hack files instantly!  
-
-> **Note:** Users can **access and download content**, uploads are not supported.
-
-</details>
-
----
-
-## ✨ Why Choose Us
-
-<details>
-<summary>Click to expand ✨ Why Choose Us</summary>
-
-- Curated, high-quality content ready for instant download  
-- Smooth, fast, visually organized interface  
-- Perfect for **refreshing your device** or **discovering trending digital content**  
-
-</details>
+<!--ascii-start-->
+Font: `block`
+Message: `My Heavenly Archive ✨`
+```text
+   _____            ___ ___                                   .__         
+  /     \ ___.__.  /   |   \   ____ _____ ___  __ ____   ____ |  | ___.__.
+ /  \ /  <   |  | /    ~    \_/ __ \\__  \\  \/ // __ \ /    \|  |<   |  |
+/    Y    \___  | \    Y    /\  ___/ / __ \\   /\  ___/|   |  \  |_\___  |
+\____|__  / ____|  \___|_  /  \___  >____  /\_/  \___  >___|  /____/ ____|
+        \/\/             \/       \/     \/          \/     \/     \/     
+   _____                .__    .__                                        
+  /  _  \_______   ____ |  |__ |__|__  __ ____                            
+ /  /_\  \_  __ \_/ ___\|  |  \|  \  \/ // __ \                           
+/    |    \  | \/\  \___|   Y  \  |\   /\  ___/                           
+\____|__  /__|    \___  >___|  /__| \_/  \___  >                          
+        \/            \/     \/              \/
+```
+<!--ascii-end-->
 
 ---
 
-## 💡 Join the Community
+## 🌐 Connect with me
 
-<details>
-<summary>Click to expand 💡 Join the Community</summary>
+<p align="center">
+  <a href="https://github.com/Bismay-exe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
 
-Thousands of users trust **✨ My Heavenly Archive ✨** to explore and download amazing content.  
-Transform your device, enjoy high-quality downloads, and discover a **beautifully organized cloud of treasures**.  
+  <a href="https://instagram.com/bismay.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+  </a>
 
-</details>
+  <a href="https://t.me/bismay_exe" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://threads.net/@bismay.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://t.me/BismaysInventory" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Group-32CD32?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
 
 ---
-
-## 📬 Connect & Follow
-
-<details>
-<summary>Click to expand 📬 Connect & Follow</summary>
-
-- 🌐 Website: [✨ My Heavenly Archive ✨](https://github.com/Bismay-exe)    
-- 📸 Instagram: [@MyHeavenlyArchive](https://www.instagram.com/bismay.exe)  
-- 💌 Contact: [email@example.com](https://t.me/bismay_exe)
-- 🐦 Telegram Group: [@MyHeavenlyArchive](https://t.me/BismaysInventory) 
-
-</details>
-
----
-
-
-**Step into your heavenly cloud of digital treasures!**  
-Browse, preview, and download wallpapers, movies, memes, and hack files instantly! 📂🎥😂💻🌟
